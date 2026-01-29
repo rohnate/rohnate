@@ -11,8 +11,8 @@
 ###
 
 <ul align="left">
-  <li><em>Building full-stack applications</em></li>
-  <li><em>Building APIs and working with databases</em></li>
+  <li><em>Developing full-stack applications</em></li>
+  <li><em>Creating APIs and working with databases</em></li>
   <li><em>Writing clean, maintainable code</em></li>
   <li><em>Advanced backend concepts</em></li>
   <li><em>System design fundamentals</em></li>
