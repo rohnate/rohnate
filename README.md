@@ -1,20 +1,26 @@
-<h2 align="left">Hi, there, I'm Rohit</h2>
+<h2 align="left"><b>Hi, there, I'm Rohit</b></h2>
 
 ###
 
-<p align="left">A full-stack software developer building and learning to design robust systems.<br>I enjoy building complete applications from user interfaces to backend logic and databases, understanding how systems work and building practical, real-world applications.</p>
+<p align="left"><em>A full-stack software developer building and learning to design robust systems.<br>I enjoy building complete applications from user interfaces to backend logic and databases, understanding how systems work and building practical, real-world applications.</em>em></p>
 
 ###
 
-<h3 align="left">What I’m working on</h3>
+<h3 align="left"><b>What I’m working on</b></h3>
 
 ###
 
-<p align="left">- Building full-stack applications<br>- Building APIs and working with databases<br>- Writing clean, maintainable code<br>- Advanced backend concepts<br>- System design fundamentals</p>
+<ul align="left">
+  <li><em>Building full-stack applications</em></li>
+  <li><em>Building APIs and working with databases</em></li>
+  <li><em>Writing clean, maintainable code</em></li>
+  <li><em>Advanced backend concepts</em></li>
+  <li><em>System design fundamentals</em></li>
+</ul>
 
 ###
 
-<h3 align="left">Tech I use</h3>
+<h3 align="left"><b>Tech I use</b></h3>
 
 ###
 
@@ -62,7 +68,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left"><b>Connect with me</b></h3>
 
 ###
 
@@ -75,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harkirat.harkirat&left_color=darkslategrey&right_color=black&left_text=Thanks%20for%20Visiting"  />
+  <img src="left_color=darkslategrey&right_color=black&left_text=Thanks%20for%20Visiting"  />
 </div>
 
 ###
