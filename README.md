@@ -1,4 +1,4 @@
-<h2 align="left"><b>Hi, I'm Rohit</b></h2>
+<h1 align="left"><b>Hi, I'm Rohit</b></h1>
 
 ###
 
@@ -73,10 +73,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.x.com" target="_blank">
+  <a href="https://www.x.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
   <img width="10" /></a>
-  <a href="https://www.linedin.com" target="_blank">
+  <a href="https://www.linkedin.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="10" /></a>
 </div>
