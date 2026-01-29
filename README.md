@@ -26,43 +26,43 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=threejs" height="35" alt="threejs logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
-  <img width="11" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo"  />
 </div>
 
