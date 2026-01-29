@@ -1,8 +1,8 @@
-<h2 align="left"><b>Hi, there, I'm Rohit</b></h2>
+<h2 align="left"><b>Hi, I'm Rohit</b></h2>
 
 ###
 
-<p align="left"><em>A full-stack software developer building and learning to design robust systems.<br>I enjoy building complete applications from user interfaces to backend logic and databases, understanding how systems work and building practical, real-world applications.</em>em></p>
+<p align="left"><em>A full-stack software developer building and learning to design robust systems.<br><br>I enjoy building complete applications from user interfaces to backend logic and databases, understanding how systems work and building practical, real-world applications.</em></p>
 
 ###
 
@@ -74,14 +74,15 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="10" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="left_color=darkslategrey&right_color=black&left_text=Thanks%20for%20Visiting"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=null&left_color=darkslategrey&right_color=black&left_text=Thanks%20for%20Visiting"  />
 </div>
 
 ###
