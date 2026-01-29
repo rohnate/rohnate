@@ -73,10 +73,10 @@
 ###
 
 <div align="left">
-  <a href="[https://www.x.com](https://x.com/rohnate)">
+  <a href="https://x.com/rohnate">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35" alt="twitter logo"  />
   <img width="10" /></a>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/rohnate/)">
+  <a href="https://www.linkedin.com/in/rohnate/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
   <img width="10" /></a>
 </div>
