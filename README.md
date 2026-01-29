@@ -73,16 +73,18 @@
 ###
 
 <div align="left">
+  <a href="https://www.x.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-  <img width="10" />
+  <img width="10" /></a>
+  <a href="https://www.linedin.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="10" />
+  <img width="10" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=null&left_color=darkslategrey&right_color=black&left_text=Thanks%20for%20Visiting"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rohnate.rohnate&left_color=darkslategrey&right_color=black&left_text=Thanks%20for%20Visiting"  />
 </div>
 
 ###
