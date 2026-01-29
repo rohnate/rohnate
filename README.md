@@ -1,20 +1,20 @@
-<h2 align="left">Hi, itsRss</h2>
+<h2 align="left">Hi, there, I'm Rohit</h2>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">A full-stack software developer building and learning to design robust systems.<br>I enjoy building complete applications from user interfaces to backend logic and databases, understanding how systems work and building practical, real-world applications.</p>
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left">What I’m working on</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">- Building full-stack applications<br>- Building APIs and working with databases<br>- Writing clean, maintainable code<br>- Advanced backend concepts<br>- System design fundamentals</p>
 
 ###
 
-<h2 align="left">Tech I use</h2>
+<h3 align="left">Tech I use</h3>
 
 ###
 
@@ -58,6 +58,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
 ###
