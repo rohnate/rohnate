@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><em>A full-stack software developer building and learning to design robust systems.<br><br>I enjoy building complete applications from user interfaces to backend logic and databases, understanding how systems work and building practical, real-world applications.</em></p>
+<p align="left"><em>A full-stack software developer passionate about building reliable, real-world systems.<br><br>I enjoy developing complete applications, from user interfaces to backend logic and databases, while learning how systems work behind the scenes.</em></p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <ul align="left">
-  <li><em>Developing full-stack applications</em></li>
+  <li><em>Building full-stack applications</em></li>
   <li><em>Creating APIs and working with databases</em></li>
   <li><em>Writing clean, maintainable code</em></li>
   <li><em>Advanced backend concepts</em></li>
