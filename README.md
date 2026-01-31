@@ -74,7 +74,7 @@
 
 <div align="left">
   <a href="https://x.com/rohnate">
-  <img src="https://cdn.brandfetch.io/idS5WhqBbM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="35" alt="twitter logo"  />
+  <img src="https://cdn.brandfetch.io/idS5WhqBbM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="33" alt="X logo"  />
   <img width="10" /></a>
   <a href="https://www.linkedin.com/in/rohnate/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
